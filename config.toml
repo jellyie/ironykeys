@@ -99,7 +99,7 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "/"
+github_repo = "https://github.com/jellyie/ironykeys"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "/"
 
@@ -113,7 +113,7 @@ github_project_repo = "/"
 algolia_docsearch = false
 
 # Enable Lunr.js offline search
-offlineSearch = false
+offlineSearch = true
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
@@ -167,7 +167,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/google/docsy"
+	url = "https://github.com/jellyie/ironykeys"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 [[params.links.developer]]

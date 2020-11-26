@@ -6,7 +6,7 @@ menu:
     weight: 20
 ---
 
-Welcome to the IronyKeys custom keyboard build guide! This guide shows you how to get started building your very first custom keyboard and the modifications you can make to improve an existing keyboard.
+Welcome to the Irony Keys custom keyboard build guide! This guide shows you how to get started building your very first custom keyboard and the modifications you can make to improve an existing keyboard.
 
 ## What is a Mechanical Keyboard?
 
