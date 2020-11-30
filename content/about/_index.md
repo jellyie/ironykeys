@@ -13,7 +13,7 @@ Irony Keys is a website that provides a basic guide about mechanical keyboards. 
 
 {{% /blocks/cover %}}
 
-{{%blocks/section type="section" color="primary" %}}
+{{%blocks/section type="section" color="gray-600" %}}
 
 ### Credits ###
 
